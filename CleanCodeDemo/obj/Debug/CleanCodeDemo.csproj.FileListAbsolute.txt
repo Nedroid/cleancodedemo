@@ -1,0 +1,7 @@
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\obj\Debug\CleanCodeDemo.csproj.AssemblyReference.cache
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\obj\Debug\CleanCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\bin\Debug\CleanCodeDemo.exe.config
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\bin\Debug\CleanCodeDemo.exe
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\bin\Debug\CleanCodeDemo.pdb
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\obj\Debug\CleanCodeDemo.exe
+C:\Users\MAK\source\repos\CleanCodeDemo\CleanCodeDemo\obj\Debug\CleanCodeDemo.pdb
