@@ -23,7 +23,7 @@ namespace CleanCodeDemo
             {
                 Id = 1,
                 Name = "Engin",
-                isStudent = true
+                Type = Entity.Enum.CustomerType.Teacher
             });
             
         }

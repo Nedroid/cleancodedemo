@@ -1,4 +1,5 @@
 ﻿using CleanCodeDemo.Entity;
+using CleanCodeDemo.Extensions;
 using CleanCodeDemo.Service;
 using System;
 using System.Collections.Generic;
@@ -18,11 +19,9 @@ namespace CleanCodeDemo.Business
         }
         public void Sell(Product product, Customer customer)
         {
-            decimal price = product.Price;
-            if (customer.isStudent)
-            {
-                price = product.Price * (decimal)0.90;
-            }
+            decimal price = product.GetPriceByCustomerType(customer.Type);
+
+            
           price=  _bankService.ConvertRate(new Entity.Dto.CurrencyRate
             {
                 Currency = 1,

@@ -10,6 +10,8 @@ namespace CleanCodeDemo.Adapter
 {
     public class CentralBankAdapter : IBankService
     {
+      
+
         public decimal ConvertRate(CurrencyRate currencyRate)
         {
             CentralBankService centralBankService = new CentralBankService();

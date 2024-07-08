@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CleanCodeDemo.Entity.Enum;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,6 @@ namespace CleanCodeDemo.Entity
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public bool isStudent { get; set; }
+        public CustomerType Type { get; set; }
     }
 }
